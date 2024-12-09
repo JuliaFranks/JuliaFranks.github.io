@@ -1,0 +1,872 @@
+Uri: https://fonts.googleapis.com/css2?display=swap&family=Montserrat:wght@300;400;500;600;700
+File Name: C:\Downloaded Web Sites\www.corexchain.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Catamaran:300%2C400%2C600%2C700|Raleway:100%2C700|Roboto:700&subset=latin%2Clatin-ext&ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd5aDdvg.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd5aDdvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd5aDdvg.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd5aDdvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a5aDdvg.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a5aDdvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v19/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba5aDdvg.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\catamaran\v19\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba5aDdvg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CGPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CGPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://ninetheme.com/themes/cryptoland/wp-content/uploads/2018/10/advisor-avatar-bg.png?id=388
+File Name: C:\Downloaded Web Sites\www.corexchain.io\themes\cryptoland\wp-content\uploads\2018\10\advisor-avatar-bg.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/i06di2x5g7ox05l3e-i06di2x5g7ox/Whitepaper 1.0.pdf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\i06di2x5g7ox05l3e-i06di2x5g7ox\Whitepaper 1.0.pdf
+Content Type: application/pdf
+
+Uri: https://www.corexchain.io/
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-1.htm
+Content Type: text/html
+
+Uri: https://www.corexchain.io/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-5.htm
+Content Type: application/rss+xml
+
+Uri: https://www.corexchain.io/?feed=comments-rss2&lang=en
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-3.htm
+Content Type: application/rss+xml
+
+Uri: https://www.corexchain.io/?feed=rss2
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-4.htm
+Content Type: application/rss+xml
+
+Uri: https://www.corexchain.io/?feed=rss2&lang=en
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://www.corexchain.io/?page_id=1479&lang=en
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index.htm
+Content Type: text/html
+
+Uri: https://www.corexchain.io/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.corexchain.io%2F
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-5.php
+Content Type: application/json
+
+Uri: https://www.corexchain.io/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.corexchain.io%2F%3Fpage_id%3D1479%26lang%3Den
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-2.php
+Content Type: application/json
+
+Uri: https://www.corexchain.io/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.corexchain.io%2F%3Fpage_id%3D1479%26lang%3Den&format=xml
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-3.php
+Content Type: text/xml
+
+Uri: https://www.corexchain.io/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.corexchain.io%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-6.php
+Content Type: text/xml
+
+Uri: https://www.corexchain.io/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index.php
+Content Type: application/json
+
+Uri: https://www.corexchain.io/index.php?rest_route=/wp/v2/pages/1479
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-1.php
+Content Type: application/json
+
+Uri: https://www.corexchain.io/index.php?rest_route=/wp/v2/pages/279
+File Name: C:\Downloaded Web Sites\www.corexchain.io\index-4.php
+Content Type: application/json
+
+Uri: https://www.corexchain.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.1
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.1
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\css\js_composer_tta.min.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\lib\vc-tta-autoplay\vc-tta-autoplay.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\lib\vc_accordion\vc-accordion.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/css/rs6.css?ver=6.3.9
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/js/rbtools.min.js?ver=6.3.9
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/plugins/revolution_slider/public/assets/js/rs6.min.js?ver=6.3.9
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\plugins\revolution_slider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland-child/style.css?ver=2.2.7
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland-child\style.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland-child/style.css?ver=5.8
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland-child\style-1.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/css/main3.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\css\main3.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/fonts/Gilroy-Light/Gilroy-Light.eot
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\fonts\Gilroy-Light\Gilroy-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/fonts/Gilroy-Light/Gilroy-Light.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\fonts\Gilroy-Light\Gilroy-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/fonts/Gilroy-Light/Gilroy-Light.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\fonts\Gilroy-Light\Gilroy-Light.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/fonts/Gilroy-Light/Gilroy-Light.woff
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\fonts\Gilroy-Light\Gilroy-Light.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/css/cryptoland-extra.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\css\cryptoland-extra.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/css/framework-update.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\css\framework-update.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/css/framework-wordpress.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\css\framework-wordpress.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/css/theme-blog.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\css\theme-blog.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fontawesome.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/font-awesome/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\font-awesome\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/ion-icons/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\ion-icons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/ion-icons/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\ion-icons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/ion-icons/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\ion-icons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/ion-icons/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\ion-icons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/ion-icons/ionicon-stylesheet.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\ion-icons\ionicon-stylesheet.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/themify/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\themify\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/themify/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\themify\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/themify/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\themify\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/themify/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\themify\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/themify/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\themify\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/dist/themify/themify-stylesheet.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\dist\themify\themify-stylesheet.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/check1.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\check1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/check3.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\check3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/check4.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\check4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/down-chevron-blue.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\down-chevron-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/down-chevron.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\down-chevron.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/home5-arr-right.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\home5-arr-right.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/images/process-arr-line.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\images\process-arr-line.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/cryptoland-custom.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\cryptoland-custom.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/fitvids.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\fitvids.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/flexslider-min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\flexslider-min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/flexslider.css?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/fonts/flexslider-icon.eot
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\fonts\flexslider-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/fonts/flexslider-icon.eot?
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\fonts\flexslider-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/fonts/flexslider-icon.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\fonts\flexslider-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/fonts/flexslider-icon.ttf
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\fonts\flexslider-icon.ttf
+Content Type: font/ttf
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/flexslider/fonts/flexslider-icon.woff
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\flexslider\fonts\flexslider-icon.woff
+Content Type: font/woff
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/framework-blog-settings.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\framework-blog-settings.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/jarallax.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/framework/js/jquery.stickyelement.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\framework\js\jquery.stickyelement.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/images/down-chevron.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\images\down-chevron.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/charts.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\charts.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/counterup.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/flip-clock.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\flip-clock.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/jquery.match-height.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\jquery.match-height.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/magnific-popup.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/scripts.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/smooth-scroll.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\smooth-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/three.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\three.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/timer.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\timer.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/themes/cryptoland/js/waypoints.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\themes\cryptoland\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/about-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\about-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/cases-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\cases-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/data-bg-space.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\data-bg-space.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/docs-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\docs-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/partenrs-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\partenrs-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/pdf.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\pdf.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/road_map.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\road_map.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/scroll-down-1.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\scroll-down-1.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/services-bg-1.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\services-bg-1.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/subscribe-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\subscribe-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/team-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\team-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/video-bg.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\video-bg.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2018/10/video-btn.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2018\10\video-btn.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/app-3.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\app-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/bg1-1.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\bg1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/blockchain.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\blockchain.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/chip.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\chip.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/colored-logo-only.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\colored-logo-only.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/corex-illustration-03.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\corex-illustration-03.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/group.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\group.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/ikon.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\ikon.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/logo-colored.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\logo-colored.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/logo.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/MicrosoftTeams-image-33.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\MicrosoftTeams-image-33.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/MicrosoftTeams-image-37.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\MicrosoftTeams-image-37.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/MicrosoftTeams-image-38.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\MicrosoftTeams-image-38.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/MicrosoftTeams-image-40.png
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\MicrosoftTeams-image-40.png
+Content Type: image/png
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/s-logo-1.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\s-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/token.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\token.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/uc1.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\uc1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/uc2.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\uc2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/uc3.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\uc3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/uc4.svg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\uc4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.corexchain.io/wp-content/uploads/2021/10/urug.jpeg
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-content\uploads\2021\10\urug.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.corexchain.io/wp-includes/css/dist/block-library/style.min.css?ver=5.8
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.corexchain.io/wp-includes/js/comment-reply.min.js?ver=5.8
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-includes/js/wp-embed.min.js?ver=5.8
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.corexchain.io/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.corexchain.io\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.corexchain.io/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.corexchain.io\xmlrpc.php
+Content Type: text/xml
+
