@@ -897,28 +897,43 @@ const walletPopupOverlay = document.querySelector(".wallet-popup-overlay");
 const chooseMetaMaskButton = document.getElementById("choose-metamask");
 const choosePhantomButton = document.getElementById("choose-phantom");
 const walletAccountInfo = document.getElementById("wallet-account-info");
+const successPopup = document.getElementById("success-popup");
+const successPopupOverlay = document.querySelector(".success-popup-overlay");
+const closeSuccessPopupButton = document.getElementById("close-success-popup");
 
-// Îòêðûòèå popup
+// Open wallet popup
 connectWalletButton.addEventListener("click", (event) => {
     event.preventDefault();
     walletPopup.classList.remove("hidden");
     walletPopup.classList.add("show");
 });
 
-// Çàêðûòèå popup ïðè êëèêå âíå êîíòåíòà
+// Close wallet popup when clicking outside content
 walletPopupOverlay.addEventListener("click", () => {
     walletPopup.classList.remove("show");
     walletPopup.classList.add("hidden");
 });
 
-// Ïîäêëþ÷åíèå MetaMask
+// Close success popup
+successPopupOverlay.addEventListener("click", () => {
+    successPopup.classList.remove("show");
+    successPopup.classList.add("hidden");
+});
+
+closeSuccessPopupButton.addEventListener("click", () => {
+    successPopup.classList.remove("show");
+    successPopup.classList.add("hidden");
+});
+
+// Connect MetaMask
 chooseMetaMaskButton.addEventListener("click", async () => {
     if (typeof window.ethereum !== "undefined" && window.ethereum.isMetaMask) {
         try {
             const accounts = await window.ethereum.request({ method: "eth_requestAccounts" });
             const account = accounts[0];
-		             walletAccountInfo.textContent = `Connected MetaMask account: ${account}`;
+            walletAccountInfo.textContent = `Connected MetaMask account: ${account}`;
             console.log("Connected MetaMask account:", account);
+            showSuccessPopup();
         } catch (error) {
             console.error("MetaMask connection error:", error);
             walletAccountInfo.textContent = "Failed to connect to MetaMask.";
@@ -930,7 +945,7 @@ chooseMetaMaskButton.addEventListener("click", async () => {
     walletPopup.classList.add("hidden");
 });
 
-// Ïîäêëþ÷åíèå Phantom
+// Connect Phantom
 choosePhantomButton.addEventListener("click", async () => {
     if (typeof window.solana !== "undefined" && window.solana.isPhantom) {
         try {
@@ -938,6 +953,7 @@ choosePhantomButton.addEventListener("click", async () => {
             const publicKey = response.publicKey.toString();
             walletAccountInfo.textContent = `Connected Phantom account: ${publicKey}`;
             console.log("Connected Phantom account:", publicKey);
+            showSuccessPopup();
         } catch (error) {
             console.error("Phantom connection error:", error);
             walletAccountInfo.textContent = "Failed to connect to Phantom.";
@@ -948,6 +964,12 @@ choosePhantomButton.addEventListener("click", async () => {
     walletPopup.classList.remove("show");
     walletPopup.classList.add("hidden");
 });
+
+// Show success popup
+function showSuccessPopup() {
+    successPopup.classList.remove("hidden");
+    successPopup.classList.add("show");
+}
 
 	</script>
 
