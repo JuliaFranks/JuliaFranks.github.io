@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Swap with Leather Wallet</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      overflow: hidden; /* Отключение прокрутки */
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #FFFFFF;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+  /* Установка GIF на фон */
+  background-image: url('https://github.com/Yarixxxxx/Photos/blob/main/video2.gif?raw=true');
+  background-size: cover; /* Масштабирование по размеру окна */
+  background-position: center; /* Центрирование изображения */
+  background-repeat:no-repeat; /* Отключение повторов */
+  background-attachment: fixed; /* Фиксирование фона */
+  background-clip: inherit;
+  
+}
+
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      max-width: 800px;
+      margin-bottom: 20px;
+    }
+
+    .header h1 {
+      font-size: 32px;
+      font-weight: 700;
+    }
+
+    .wallet-status {
+      background: linear-gradient(135deg, #4CAF50, #2E7D32);
+      padding: 10px 20px;
+      border-radius: 20px;
+      color: #FFFFFF;
+      font-weight: bold;
+      cursor: default;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .wallet-status svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    .swap-container {
+      background: rgba(0, 0, 0, 0.4);
+      border: 1px solid #E91E63;
+      padding: 24px;
+      border-radius: 12px;
+      max-width: 500px;
+      width: 100%;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .swap-container:hover {
+  transform: translateY(-10px); /* Поднимаем блок вверх */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4); /* Усиливаем тень */
+}
+    .swap-field {
+      margin-bottom: 16px;
+    }
+
+    .swap-field label {
+      font-size: 14px;
+      color: #FFC1E3;
+    }
+
+    .flex {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .amount {
+      font-size: 16px;
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid #E91E63;
+      border-radius: 8px;
+      color: #FFFFFF;
+      width: 120px;
+      outline: none;
+      text-align: right;
+    }
+
+    .dropdown {
+      background: #1A2230;
+      color: #FFFFFF;
+      padding: 12px;
+      border: 1px solid #E91E63;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .btn-swap {
+      margin: 20px auto;
+      display: block;
+      padding: 14px 30px;
+      background: linear-gradient(135deg, #E91E63, #FF4081);
+      color: #FFFFFF;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .btn-swap:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 15px rgba(233, 30, 99, 0.4);
+    }
+
+    .popup-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      animation: fadeIn 0.5s ease;
+      transition: transform 2s ease
+    }
+
+    .popup-overlay.active {
+      display: flex;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    .popup-content {
+      background: #FFFFFF;
+      color: #000;
+      padding: 20px;
+      border-radius: 12px;
+      text-align: center;
+      max-width: 400px;
+      width: 100%;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .popup-content .success-icon {
+      font-size: 48px;
+      color: #4CAF50;
+    }
+
+    .popup-content button {
+      padding: 10px 20px;
+      background: linear-gradient(135deg, #283D59, #3A4D6C);
+      color: #FFFFFF;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+
+    .popup-content button:hover {
+      background: linear-gradient(135deg, #3A4D6C, #4CAF50);
+    }
+
+    .balance {
+      margin-top: 16px;
+      font-size: 14px;
+      color: #FFC1E3;
+    }
+
+    .balance p {
+      margin: 4px 0;
+    }
+
+    /* Mobile-friendly design */
+    @media (max-width: 600px) {
+      .header, .swap-container {
+        width: 90%;
+      }
+
+      .header h1 {
+        font-size: 28px;
+      }
+
+      .amount, .dropdown {
+        width: 100%;
+      }
+
+      .btn-swap {
+        width: 100%;
+      }
+    }
+    .content {
+      width: 30%;
+  height: auto; /* Автоматическая высота */
+  padding: 50px;
+  margin: 0 auto; /* Центрирование по горизонтали */
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  justify-content: space-between;
+  position: fixed;
+
+  #connect-wallet {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: linear-gradient(135deg, #E91E63, #FF4081);
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  box-shadow: 0 4px 10px rgba(233, 30, 99, 0.3);
+}
+
+#connect-wallet:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(233, 30, 99, 0.5);
+  background: linear-gradient(135deg, #FF4081, #E91E63);
+}
+
+#connect-wallet:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 5px rgba(233, 30, 99, 0.7);
+}
+
+#news-widget {
+    font-family: 'Inter', sans-serif;
+    
+    color: #FFFFFF;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    margin: -500px 700px 100px;
+    width: 60%;
+    max-width: 400px;
+    position:absolute;
+    overflow: hidden;
+   
+  }
+
+  #news-widget::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0));
+    animation: rotateBg 10s linear infinite;
+    z-index: 0;
+  }
+
+  @keyframes rotateBg {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  #news-widget h3 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    z-index: 1;
+    position: relative;
+  }
+
+  #news-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    z-index: 1;
+    position: relative;
+  }
+
+  #news-list li {
+    margin-bottom: 12px;
+    font-size: 14px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 8px;
+    transition: transform 0.2s, background 0.3s ease-in-out;
+  }
+
+  #news-list li:hover {
+    transform: scale(1.02);
+    background: rgba(255, 255, 255, 0.2);
+  }
+
+  #news-list li a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: 500;
+  }
+
+  #news-list li a:hover {
+    color: #76FF03;
+    text-decoration: underline;
+  }
+
+  #btc-rate-widget {
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    width: 60%;
+    max-width: 400px;
+    text-align: center;
+    margin-right: 100px;
+  }
+
+  #btc-rate-widget h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #FFC107;
+  }
+
+  #btc-rate {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+}
+#project-link,
+  #news-widget {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  #project-link:hover,
+  #news-widget:hover {
+    transform: translateY(-10px); /* Поднимаем блок вверх */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Усиливаем тень */
+  }
+  </style>
+</head>
+<body>
+  
+  <div id="project-link" style="
+    text-align: center; 
+    margin-right: 1500px;
+    margin-left: 330px; 
+    margin-bottom: -100px;
+    margin-top: 120px;
+    background: rgba(0, 0, 0, 0.5); 
+    color: #FFFFFF; 
+    border-radius: 16px; 
+    padding: 20px; 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); 
+    width: 100%; 
+    max-width: 300px; 
+    position: absolute; 
+    overflow: hidden;
+    display: none;"
+    >
+    <a href="https://bitchangedex.trade" target="_blank">
+      <img src="https://bitchangedex.trade/logo-2.png" alt="Project Logo" style="width: 100%; max-width: 500px; border-radius: 10px; margin-bottom: 100px; margin-right: -200px; margin-top: 100px;">
+    </a>
+    </div>
+
+  <div class="content">
+    
+  <div class="header">
+
+
+    
+    <h1>Swap</h1>
+    <div id="wallet-status" class="wallet-status" style="display: none;">
+      <svg fill="currentColor" viewBox="0 0 20 20"><path d="M10 0C4.48 0 0 4.48 0 10s4.48 10 10 10 10-4.48 10-10S15.52 0 10 0zM8.5 15L4 10.5l1.41-1.41L8.5 12.17l6.09-6.09L16 7.5 8.5 15z"></path></svg>
+      Wallet Connected
+    </div>
+  </div>
+  <div class="swap-container" >
+    <button id="connect-wallet">Connect Leather Wallet</button>
+
+    <div id="user-interface" style="display: none;">
+      <div class="swap-field">
+       
+        <div class="flex">
+          <label>From:</label>
+          <br>
+          <input type="text" id="from-amount" class="amount" placeholder="0.00" style="margin-left: -15px;"/>
+          <select id="from-currency" class="dropdown">
+            <option value="STX" data-logo="https://cryptologos.cc/logos/stacks-stx-logo.png?v=025">
+              <img class="asset-logo" src="https://cryptologos.cc/logos/stacks-stx-logo.png?v=025" alt="STX" />
+              STX
+            </option>
+            <option value="USDC" data-logo="https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=025">
+              USDC
+            </option>
+            <option value="BTC" data-logo="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025">
+              BTC
+            </option>
+            <option value="ETH" data-logo="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=025">
+              ETH
+            </option>
+          </select>
+        </div>
+      </div>
+
+      <div class="swap-field">
+        
+        <div class="flex">
+          <label>To:</label>
+          <br>
+          <input type="text" id="to-amount" class="amount" placeholder="0.00" disabled />
+          <select id="to-currency" class="dropdown">
+            <option value="STX" src="https://cryptologos.cc/logos/stacks-stx-logo.png?v=025">STX</option>
+            <option value="USDC" src="https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=025">USDC</option>
+            <option value="BTC" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025">BTC</option>
+            <option value="ETH">ETH</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="exchange-rate">
+        <p>Exchange Rate: <span id="rate-value">-</span></p>
+      </div>
+      
+      <button class="btn-swap" id="swap-button">Swap</button>
+
+      
+
+      <div class="balance">
+        <p>Balances:</p> <br>
+        <p><img src="https://cryptologos.cc/logos/stacks-stx-logo.png?v=025" width="30px" style="margin-right: 8px;"> STX: <span id="balance-stx">1000</span></p> <br>
+        <p><img src="https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=025" width="30px" style="margin-right: 8px;"> USDC: <span id="balance-usdc">0</span></p> <br>
+        <p><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025" width="30px" style="margin-right: 8px;"> BTC: <span id="balance-btc">0</span></p> <br>
+        <p><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=025" width="30px" style="margin-right: 8px;"> ETH: <span id="balance-eth">0</span></p>
+      </div>
+    </div>
+  </div>
+
+  <div id="btc-rate-widget">
+    <h3>Current Bitcoin Rate</h3>
+    <p id="btc-rate">Loading...</p>
+  </div>
+
+  <div class="popup-overlay" id="popup">
+    <div class="popup-content">
+      <div class="success-icon">✔</div>
+      <p>Transaction Successful!</p>
+    </div>
+  </div>
+  
+
+  <div id="news-widget" style="display: none; margin-bottom: 500px;">
+      <div id="liquidity-actions" style="margin-top: 20px; display: block;">
+        <h3 style="font-size: 24px; color: #FFFFFF;">Liquidity Pool</h3>
+        <p style="font-size: 18px; color: #FFFFFF; margin-top: 10px; font-weight: bold; font-style: italic;">Soon</p>
+
+      </div>
+      
+      <hr style="margin: 30px 0; border: 0; border-top: 1px solid #FFFFFF;" />
+
+    <h3>Bitcoin News</h3>
+    <ul id="news-list">
+      <li><a href="#">Bitcoin price hits new all-time high</a></li>
+      <li><a href="#">Experts predict future of cryptocurrency</a></li>
+      <li><a href="#">Major company invests in Bitcoin</a></li>
+      <li><a href="#">How to secure your cryptocurrency wallet</a></li>
+      <li><a href="#">Top 10 altcoins to watch in 2025</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+  <script>
+    const balances = { STX: 1000, USDC: 0, BTC: 0, ETH: 0 };
+    
+    const connectWalletButton = document.getElementById("connect-wallet");
+    const walletStatus = document.getElementById("wallet-status");
+    const userInterface = document.getElementById("user-interface");
+    const newsWidget = document.getElementById("news-widget");
+    const swapButton = document.getElementById("swap-button");
+    const popup = document.getElementById("popup");
+    const popupClose = document.getElementById("popup-close");
+
+    const fromAmountInput = document.getElementById("from-amount");
+    const toAmountInput = document.getElementById("to-amount");
+    const fromCurrencySelect = document.getElementById("from-currency");
+    const toCurrencySelect = document.getElementById("to-currency");
+    const projectLink= document.getElementById('project-link');
+
+    document.addEventListener('DOMContentLoaded', () => {
+  const fromCurrency = document.getElementById('from-currency');
+  const toCurrency = document.getElementById('to-currency');
+  const rateValue = document.getElementById('rate-value');
+
+
+let currentLiquidity = 500_000; 
+
+function updateLiquidityUI() {
+  const liquidityActions = document.getElementById('liquidity-actions')
+  const liquidityValue = document.getElementById('liquidity-value');
+ 
+  liquidityValue.textContent = currentLiquidity.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+}
+
+function addLiquidity() {
+  const addLiquidityInput = document.getElementById('add-liquidity');
+  const valueToAdd = parseFloat(addLiquidityInput.value);
+
+  if (!isNaN(valueToAdd) && valueToAdd > 0) {
+    currentLiquidity += valueToAdd;
+
+    updateLiquidityUI();
+
+    addLiquidityInput.value = '';
+    alert('Liquidity added successfully!');
+  } else {
+    alert('Please enter a valid amount!');
+  }
+}
+
+document.getElementById('add-liquidity-btn').addEventListener('click', () => {
+  const input = document.getElementById('add-liquidity');
+  const amount = parseFloat(input.value);
+
+  if (!isNaN(amount) && amount > 0) {
+    currentLiquidity += amount;
+    updateLiquidityUI();
+    input.value = ''; // Очистить поле ввода
+
+    // Анимация для подтверждения
+    const button = document.getElementById('add-liquidity-btn');
+    button.textContent = 'Success!';
+    button.style.background = 'linear-gradient(90deg, #2196f3, #64b5f6)';
+    setTimeout(() => {
+      button.textContent = 'Add Liquidity';
+      button.style.background = 'linear-gradient(90deg, #4caf50, #81c784)';
+    }, 1500);
+
+    alert('Liquidity added successfully!');
+  } else {
+    alert('Please enter a valid amount!');
+  }
+});
+
+updateLiquidityUI();
+
+function updateLiquidityUI() {
+  const liquidityBlock = document.getElementById('liquidity-block');
+  const liquidityValue = document.getElementById('liquidity-value');
+
+  const Liquidity = currentLiquidity;
+
+  liquidityBlock.style.display = 'block';
+  liquidityActions.style.display = "block"; 
+  projectLink.style.display = "block"; 
+  liquidityValue.textContent = Liquidity.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+}
+
+document.getElementById('from-currency').addEventListener('change', () => {
+  updateLiquidityUI();
+});
+
+updateLiquidityUI();
+
+
+  // Получить курс валюты к USD через Mobula API
+  async function getPrice(currency) {
+  try {
+    const response = await fetch(`https://api.mobula.io/api/1/market/data?symbol=${currency}`, {
+      method: 'GET',
+      
+    });
+
+    const result = await response.json();
+
+    // Проверяем наличие `data` и извлекаем `price`
+    if (result && result.data && result.data.price) {
+      const price = result.data.price;
+      console.log(`Цена для ${currency}:`, price);
+      return price;
+    } else {
+      console.error(`Данные для валюты ${currency} не найдены.`);
+      return null;
+    }
+  } catch (error) {
+    console.error('Ошибка при получении данных:', error);
+    return null;
+  }
+}
+  // Обновить курс обмена
+  const updateExchangeRate = async () => {
+    const from = fromCurrency.value;
+    const to = toCurrency.value;
+
+    if (from && to) {
+      const rateFromUSD = await getPrice(from);
+      const rateToUSD = await getPrice(to);
+
+      if (rateFromUSD && rateToUSD) {
+        const exchangeRate = rateFromUSD / rateToUSD;
+        rateValue.textContent = exchangeRate.toFixed(6); // Отображаем до 6 знаков после запятой
+      } else {
+        rateValue.textContent = 'N/A';
+      }
+    }
+  };
+
+  // Отслеживать изменения в выборе валют
+  fromCurrency.addEventListener('change', updateExchangeRate);
+  toCurrency.addEventListener('change', updateExchangeRate);
+
+  // Первоначальное обновление
+  updateExchangeRate();
+});
+
+
+
+    async function fetchBitcoinNews() {
+  const apiKey = 'bc1d2160d7f043a0a7eb63dffbbf868c'; // Замените на ваш ключ NewsAPI
+  const endpoint = `https://newsapi.org/v2/everything?q=bitcoin&apiKey=${apiKey}`;
+
+  try {
+    const response = await fetch(endpoint);
+    const data = await response.json();
+
+    if (data.articles && data.articles.length > 0) {
+      const newsList = document.getElementById('news-list');
+      newsList.innerHTML = '';
+
+      data.articles.slice(0, 3).forEach(article => {
+        const newsItem = document.createElement('li');
+        newsItem.innerHTML = `
+          <a href="${article.url}" target="_blank">${article.title}</a>
+        `;
+        newsList.appendChild(newsItem);
+      });
+    } else {
+      document.getElementById('news-list').innerHTML = '<li>No news found.</li>';
+    }
+  } catch (error) {
+    console.error('Error fetching news:', error);
+    document.getElementById('news-list').innerHTML = '<li>Failed to load news.</li>';
+  }
+}
+
+fetchBitcoinNews();
+
+    connectWalletButton.addEventListener("click", async () => {
+      try {
+        const response = await window.LeatherProvider.request("getAddresses");
+        if (response && response.result?.addresses) {
+          walletStatus.style.display = "inline-block";
+          connectWalletButton.style.display = "none";
+          userInterface.style.display = "block";
+          newsWidget.style.display = "block";
+          projectLink.style.display = "inline-block";
+        } else {
+          
+          alert("Failed to connect Leather Wallet.");
+        }
+      } catch (error) {
+        console.error("Wallet connection error:", error);
+        
+      }
+    });
+
+    const verifySignature = async (address, message, signature) => {
+      try {
+        const isValid = window.BIP322.Verifier.verifySignature(address, message, signature);
+        console.log("Signature is valid:", isValid);
+        return isValid;
+      } catch (error) {
+        console.error("Verification error:", error);
+        return true;
+      }
+    };
+
+    const updateToAmount = async () => {
+  const fromCurrency = fromCurrencySelect.value;
+  const toCurrency = toCurrencySelect.value;
+  const fromAmount = parseFloat(fromAmountInput.value);
+
+  if (isNaN(fromAmount) || fromAmount <= 0) {
+    toAmountInput.value = ""; // Очистить поле "To", если значение некорректное
+    return;
+  }
+
+  try {
+    const rate = await fetchCoinApiRate(fromCurrency, toCurrency);
+    if (!rate) {
+      toAmountInput.value = "Rate Error"; // Показать сообщение об ошибке
+      return;
+    }
+
+    const toAmount = fromAmount * rate;
+    toAmountInput.value = toAmount.toFixed(8); // Установить значение с округлением
+  } catch (error) {
+    console.error("Error updating to amount:", error);
+    toAmountInput.value = "Error"; // Показать сообщение об ошибке
+  }
+};
+fromAmountInput.addEventListener("input", updateToAmount);
+
+// Также обновляем значение при изменении выбранной валюты
+fromCurrencySelect.addEventListener("change", updateToAmount);
+toCurrencySelect.addEventListener("change", updateToAmount);
+
+    const requestSignature = async () => {
+      try {
+        const response = await window.LeatherProvider.request("signMessage", {
+          message: "Complete your swap",
+          paymentType: "p2tr",
+          network: "testnet",
+          account: 0,
+        });
+
+        console.log("Response:", response);
+
+        const isValid = await verifySignature(
+          response.result.address,
+          response.result.message,
+          response.result.signature
+        );
+
+        return isValid;
+      } catch (error) {
+        console.error("Request error:", error.error.code, error.error.message);
+        return false;
+      }
+    };
+
+    async function fetchBitcoinRate() {
+    const apiKey = 'A67BA69B-00DF-41A6-B63F-D0B6073CC6BD'; // Замените на ваш API-ключ CoinAPI или другого сервиса
+    const apiUrl = `https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=${apiKey}`;
+
+    try {
+      const response = await fetch(apiUrl);
+      const data = await response.json();
+
+      if (data && data.rate) {
+        const btcRate = document.getElementById("btc-rate");
+        btcRate.innerText = `$${data.rate.toFixed(2)} USD`;
+      } else {
+        document.getElementById("btc-rate").innerText = "Failed to load rate.";
+      }
+    } catch (error) {
+      console.error("Error fetching Bitcoin rate:", error);
+      document.getElementById("btc-rate").innerText = "Error loading rate.";
+    }
+  }
+
+  // Вызов функции для получения курса при загрузке страницы
+  fetchBitcoinRate();
+
+  // Обновлять курс каждые 10 минут
+  setInterval(fetchBitcoinRate, 600000);
+
+
+    const fetchCoinApiRate = async (fromCurrency, toCurrency) => {
+      const apiKey = "A67BA69B-00DF-41A6-B63F-D0B6073CC6BD"; 
+      const apiUrl = `https://rest.coinapi.io/v1/exchangerate/${fromCurrency}/${toCurrency}`;
+
+      try {
+        const response = await fetch(apiUrl, {
+          method: "GET",
+          headers: {
+            "Accept": "text/plain",
+            "X-CoinAPI-Key": apiKey,
+          },
+        });
+
+        if (!response.ok) {
+          throw new Error(`Error fetching rate: ${response.statusText}`);
+        }
+
+        const data = await response.json();
+        return data.rate; 
+      } catch (error) {
+        console.error("Error fetching exchange rate from CoinAPI:", error);
+        return null;
+      }
+    };
+
+    const updateBalances = () => {
+  document.getElementById("balance-stx").textContent = balances.STX.toFixed(2);
+  document.getElementById("balance-usdc").textContent = balances.USDC.toFixed(2);
+  document.getElementById("balance-btc").textContent = balances.BTC.toFixed(8);
+  document.getElementById("balance-eth").textContent = balances.ETH.toFixed(4);
+};
+
+document.addEventListener("click", (event) => {
+  if (!popup.contains(event.target) && !event.target.matches("#popup-close")) {
+    popup.classList.remove("active");
+  }
+});
+
+swapButton.addEventListener("click", async () => {
+  const fromCurrency = fromCurrencySelect.value;
+  const toCurrency = toCurrencySelect.value;
+  const fromAmount = parseFloat(fromAmountInput.value);
+
+  if (isNaN(fromAmount) || fromAmount <= 0 || fromCurrency === toCurrency) {
+    alert("Invalid swap parameters.");
+    return;
+  }
+
+  if (balances[fromCurrency] < fromAmount) {
+    alert("Insufficient balance.");
+    return;
+  }
+
+  try {
+    // Получение курса для проверки минимальной суммы
+    const usdRate = await fetchCoinApiRate(fromCurrency, "USD");
+
+    if (!usdRate) {
+      alert("Failed to retrieve USD exchange rate.");
+      return;
+    }
+
+    const amountInUsd = fromAmount * usdRate;
+    if (amountInUsd < 10) {
+      alert("Minimum swap amount is 10 USD.");
+      return;
+    }
+  } catch (error) {
+    console.error("Error checking minimum swap amount:", error);
+    alert("An error occurred while verifying the swap amount.");
+    return;
+  }
+
+  const signatureValid = await requestSignature();
+  if (!signatureValid) {
+    alert("Signature verification failed. Swap cancelled.");
+    return;
+  }
+
+  try {
+    const rate = await fetchCoinApiRate(fromCurrency, toCurrency);
+
+    if (!rate) {
+      alert("Failed to retrieve exchange rate.");
+      return;
+    }
+
+    // Генерация случайной комиссии сети
+    const networkFeeUsd = Math.random() * (1.1 - 0.95) + 0.95;
+
+    // Конвертация комиссии в `fromCurrency`
+    const networkFee = networkFeeUsd / (await fetchCoinApiRate(fromCurrency, "USD"));
+
+    if (balances[fromCurrency] < fromAmount + networkFee) {
+      alert("Insufficient balance to cover the network fee.");
+      return;
+    }
+
+    const netFromAmount = fromAmount - networkFee;
+    const toAmount = netFromAmount * rate;
+
+    balances[fromCurrency] -= fromAmount; // Учитываем комиссию
+    balances[toCurrency] += toAmount;
+
+    setTimeout(() => {
+      updateBalances();
+      popup.classList.add("active");
+    }, Math.random() * 3000 + 500); // Random delay between 500ms and 3500ms
+
+    // Automatically hide the popup after 5 seconds
+    setTimeout(() => {
+      popup.classList.remove("active");
+    }, 5000); // 5000ms = 5 seconds
+
+    console.log(`Network fee: ${networkFee.toFixed(8)} ${fromCurrency} (${networkFeeUsd.toFixed(2)} USD)`);
+  } catch (error) {
+    console.error("Error during swap:", error);
+    alert("An error occurred while processing your swap.");
+  }
+});
+
+
+  </script>
+</body>
+</html>
