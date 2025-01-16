@@ -141,9 +141,13 @@
     align-items: center;
     z-index: 1000;
     animation: fadeIn 0.5s ease;
+       opacity: 0; /* Начальная прозрачность */
+    visibility: hidden;
   }
 
   .popup-overlay.active {
+    opacity: 1; /* Появление */
+    visibility: visible; /* Делаем элемент видимым */
     display: flex;
   }
 
